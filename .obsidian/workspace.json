@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0829b9590408c675",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d7c385d8e22eb7",
+        "type": "tabs",
+        "dimension": 37.62690355329949,
+        "children": [
+          {
+            "id": "a946a3660a7b5d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Les bases HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d971f56ca8957060",
+        "type": "tabs",
+        "dimension": 62.3730964467005,
+        "children": [
+          {
+            "id": "3bba3d2e3f70751f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2262143d7e5b6193",
+    "type": "split",
+    "children": [
+      {
+        "id": "903e62eecf0f8da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86388ca299ad5a7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd79a50c9254b9ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#head",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61593686c3506a9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a45bebff2bae2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "76869bc713ab64f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9fffeeb3c4f073",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cc9467e367ac3d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be9ae25d782ccc42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adf014c5d1515f16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3bba3d2e3f70751f",
+  "lastOpenFiles": [
+    "HTML/Les bases HTML.md",
+    "Algo/13-09-2024.md",
+    "Algo/logigramme.md",
+    "Excalidraw",
+    "HTML/Shéma fonctionnement.md",
+    "Reseaux/BOX Shéma.md",
+    "Reseaux/Réseaux Shéma.md",
+    "Algo",
+    "2024-09-11.md",
+    "HTML",
+    "Bienvenue.md",
+    "Excalidraw/Drawing 2024-09-10 15.53.06.excalidraw.md",
+    "Excalidraw/Sans titre.md",
+    "Reseaux"
+  ]
+}
