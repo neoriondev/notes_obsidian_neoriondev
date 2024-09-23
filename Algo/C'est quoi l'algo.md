@@ -81,7 +81,7 @@ Multiplications *
 - OU (or)
 
 
-## ET (end)
+## ET (and)
 
 | a   | b   | a ET b |
 | --- | --- | ------ |

@@ -4,38 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "67d7c385d8e22eb7",
+        "id": "b6c973483adfc482",
         "type": "tabs",
-        "dimension": 37.62690355329949,
         "children": [
           {
-            "id": "a946a3660a7b5d43",
+            "id": "1fa5677fe376a51f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Les bases HTML.md",
+                "file": "Python/Les bases Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db2aef50cc894f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anglais séance 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7da1249e4a3161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture info/Séance 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "d971f56ca8957060",
-        "type": "tabs",
-        "dimension": 62.3730964467005,
-        "children": [
-          {
-            "id": "3bba3d2e3f70751f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Culture info/Séance 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Culture info/Séance 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Culture info/Séance 1.md"
+              }
             }
           }
         ]
@@ -159,13 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bba3d2e3f70751f",
+  "active": "bd7da1249e4a3161",
   "lastOpenFiles": [
+    "Culture info",
+    "Anglais séance 2.md",
+    "Culture info/Séance 1.md",
+    "Python/Les bases Python.md",
     "HTML/Les bases HTML.md",
-    "Algo/13-09-2024.md",
+    "Algo/C'est quoi l'algo.md",
     "Algo/logigramme.md",
-    "Excalidraw",
+    "Python/Algo Séance 3.md",
+    "Python",
     "HTML/Shéma fonctionnement.md",
+    "CSS/Les bases CSS.md",
+    "CSS",
+    "Excalidraw",
     "Reseaux/BOX Shéma.md",
     "Reseaux/Réseaux Shéma.md",
     "Algo",

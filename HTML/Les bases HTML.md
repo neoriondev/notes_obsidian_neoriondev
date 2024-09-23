@@ -29,7 +29,7 @@
 - **Frontoffice** : partie visible par les utilisateurs.
 - **Backoffice** : espace de gestion réservé aux administrateurs.
 
-
-
+# Notes Divers
+&nbsp pour simuler une espace
 
 
