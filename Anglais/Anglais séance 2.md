@@ -29,5 +29,3 @@ I came back home
 
 
 
-On saturday, I woke up at 9
-I drank a black coffee and I had a shower. I went to my appartement to renovation

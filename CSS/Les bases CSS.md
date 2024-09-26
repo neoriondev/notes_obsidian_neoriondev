@@ -34,12 +34,13 @@ Il est recommandé de placer cette ligne dans la balise <head>, en mettant le no
 
     Le sélecteur est la partie avant dans une règle CSS, exemple :
 
-```css
-
+```
+css
 h1 {
   color: red;
 }
 ```
+
 
 Pour appliquer la même règle à plusieurs éléments, on peut les séparer par une virgule :
 
@@ -111,11 +112,11 @@ Les identifiants (ID) sont prioritaires sur les autres sélecteurs (classe, bali
     Classe = 10 points.
     ID = 100 points.
 
-## 5. Les DIV
+##5. Les DIV
 
 - La balise <div> permet de regrouper des éléments. Elle peut être associée à une classe ou un ID pour la styliser.
 
-## 6. Autres balises courantes
+##6. Autres balises courantes
 
 - Mettre en gras : Utiliser la balise <strong> :
 
@@ -181,3 +182,4 @@ a:visited {
 ```
 
 **Accessibilité : Tous les sites doivent être navigables au clavier, d'où l'importance de gérer les styles de focus.**
+
